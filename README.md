@@ -55,3 +55,9 @@ NODE_OPTIONS="--openssl-legacy-provider npm start
 ```
 
 The application will start running on your local machine at [http://localhost:3000](http://localhost:3000).
+
+## Usage
+1) You can start a Meeting Room in the `Join Meeting` Page, Put in your Meeting ID and Username.
+2) Another user can now enter the same Room.
+3) Feature of Audio, Video, Screen Share and Chat is activated.
+4) Can Leave the Meeting.
