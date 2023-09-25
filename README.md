@@ -1,13 +1,13 @@
 # AICTE Webconnect
 
 ## Problem Statement
-SIH1464: Design and Develop a personalized online meeting system for AICTE
+### SIH1464: Design and Develop a personalized online meeting system for AICTE
 
-Live Demo: [](sih-demo-fronted.vercel.app/)
+Live Demo: [sih-demo-frontend.vercel.app](sih-demo-fronted.vercel.app/)
 
-YouTube Demo: [](youtu.be/KMpM3uDvPTY)
+YouTube Demo: [youtube.com/KMpM3uDvPTY](youtu.be/KMpM3uDvPTY)
 
-PPT: [](canva.com/design/DAFvMcUOkU8/3gXdpecEBglc0VhRt-rm3A)
+PPT: [canva.com/design/DAFvMcUOkU8/3gXdpecEBglc0VhRt-rm3A](canva.com/design/DAFvMcUOkU8/3gXdpecEBglc0VhRt-rm3A)
 
 ![Screenshots](https://github.com/Archit381/aicte-webconnect/blob/main/preview.png) 
 
