@@ -1,15 +1,55 @@
-# Video-Group-Meeting-Client
+# AICTE Webconnect
 
-- React
-- WebRTC
+## Problem Statement
+SIH1464: Design and Develop a personalized online meeting system for AICTE
+
+Live Demo: sih-demo-fronted.vercel.app/
+YouTube Demo: youtu.be/KMpM3uDvPTY
+PPT: canva.com/design/DAFvMcUOkU8/3gXdpecEBglc0VhRt-rm3A
+
+![Screenshots](https://github.com/Archit381/aicte-webconnect/blob/main/preview.png) 
+
+![Flowchart](https://github.com/Archit381/aicte-webconnect/blob/main/flowchart.png)
+
+## Features
+AICTE Webconnect is an online meeting system with the follwing feautures:
+1) Seamless live streaming of Audio and Video between multiple Peers.
+2) Chat System with Screen Sharing Feature.
+3) Security enabled by Multi-Factor Authentication, Keeping Network log of IPs in Backend.
+4) Integrated Cloud storage system for secure sharing of files.
+5) AI features: MoM generation, Meeting inportant point highlights, Voice enabled controls.
+![Features](https://github.com/Archit381/aicte-webconnect/blob/main/Features.png)
 
 ## Installation
-<pre>
-  <code>
-    /* Install */
-    npm install
-    
-    /* Run */
-    npm start
-  </code>
-</pre>
+
+To get started with AICTE Webconnect, follow these simple steps:
+
+### Prerequisites
+
+Before you begin, make sure you have Node.js and npm (Node Package Manager) installed on your system.
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/your-username/aicte-webconnect.git
+```
+
+### Navigate to the Project Directory
+
+```bash
+cd aicte-webconnect
+```
+
+### Install Dependencies
+
+```bash
+npm install
+```
+
+### Run the Application
+
+```bash
+NODE_OPTIONS="--openssl-legacy-provider npm start
+```
+
+The application will start running on your local machine at [http://localhost:3000](http://localhost:3000).
