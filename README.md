@@ -7,7 +7,7 @@ Live Demo: [sih-demo-frontend.vercel.app](https://sih-demo-fronted.vercel.app/)
 
 YouTube Demo: [youtube.com/KMpM3uDvPTY](https://youtu.be/KMpM3uDvPTY)
 
-PPT: [canva.com/design/DAFvMcUOkU8/3gXdpecEBglc0VhRt-rm3A](https://canva.com/design/DAFvMcUOkU8/3gXdpecEBglc0VhRt-rm3A)
+PPT: [canva.com/design/DAFvMcUOkU8/3gXdpecEBglc0VhRt-rm3A](https://www.canva.com/design/DAFvMcUOkU8/3gXdpecEBglc0VhRt-rm3A/view)
 
 ![Screenshots](https://github.com/Archit381/aicte-webconnect/blob/main/preview.png) 
 
