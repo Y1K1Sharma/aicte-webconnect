@@ -51,7 +51,7 @@ npm install
 ### Run the Application
 
 ```bash
-NODE_OPTIONS="--openssl-legacy-provider npm start
+NODE_OPTIONS="--openssl-legacy-provider" npm start
 ```
 
 The application will start running on your local machine at [http://localhost:3000](http://localhost:3000).
