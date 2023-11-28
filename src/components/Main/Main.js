@@ -55,7 +55,7 @@ const Main = (props) => {
         </div>
         <div>
           <Text1>
-            <label htmlFor="roomName">Room Name</label>
+            <label htmlFor="roomName" className="Input">Room Name</label>
           </Text1>
           <InputBox1>
             <input type="text" id="roomName" ref={roomRef} />
@@ -63,7 +63,7 @@ const Main = (props) => {
         </div>
         <div>
           <Text2>
-            <label htmlFor="userName">User Name</label>
+            <label htmlFor="userName" className="Input">User Name</label>
           </Text2>
           <InputBox2>
             <input type="text" id="userName" ref={userRef} />
